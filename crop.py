@@ -1,6 +1,6 @@
 from PIL import Image
 
-cub_dir = "CUB_200_2011/CUB_200_2011"
+cub_dir = "CUB_200_2011"
 img_dir = f"{cub_dir}/images"
 crop_dir = "datasets/cub200_cropped"
 
