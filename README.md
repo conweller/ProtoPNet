@@ -1,13 +1,19 @@
 # Connor's Setup Instructions
 
-First install the required packages (inside whatever virtual environment
-you are using):
+First clone the repository:
+
+``` sh
+git clone https://github.com/conweller/ProtoPNet
+```
+
+Then in the repo directory, install the required packages (inside
+whatever virtual environment you are using):
 
 ``` sh
 pip install -r requirements.txt
 ```
 
-Then run the setup script `setup.sh`:
+And the run the setup script `setup.sh`:
 
 ``` sh
 bash setup.sh
