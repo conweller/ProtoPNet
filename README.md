@@ -1,6 +1,7 @@
 # Connor's Setup Instructions
 
-First install the required packages:
+First install the required packages (inside whatever virtual environment
+you are using):
 
 ``` sh
 pip install -r requirements.txt
