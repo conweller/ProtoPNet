@@ -1,5 +1,4 @@
-pip install Augmentor
-pip install gdown
+#!/usr/bin/env bash
 
 gdown --id 1hbzc_P1FuxMkcabkgn9ZKinBwW683j45 --output CUB_200_2011.tgz
 
